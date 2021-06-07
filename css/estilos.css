@@ -41,25 +41,19 @@ body
     font-size: 20px;
 }
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 #post {
     background: white;
     padding: 1em;
-=======
-=======
->>>>>>> 2f2ab532d48b8700c0010d230e264a0a91da6c44
+}
+
 #footer {
     background: #777;
     color: white;
     text-align: center;
     padding: 0.5em;
-<<<<<<< HEAD
->>>>>>> footer
-=======
+}
 
 #post {
     background: white;
     padding: 1em;
->>>>>>> 2f2ab532d48b8700c0010d230e264a0a91da6c44
 }
