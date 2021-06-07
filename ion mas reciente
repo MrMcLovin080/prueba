@@ -1,0 +1,78 @@
+* [33mcommit 8e10a92c4aac4a87e2ba2bb9ff60a569a8f8f418[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+[31m|[m Author: isailazo <isalazo_benites@outlook.es>
+[31m|[m Date:   Sun Jun 6 19:50:35 2021 -0500
+[31m|[m 
+[31m|[m     La vida de Isai Lazo
+[31m|[m 
+* [33mcommit cc9ca2474b36825c3669c07bb281e9a02cfad214[m
+[31m|[m Author: isailazo <isalazo_benites@outlook.es>
+[31m|[m Date:   Tue May 4 18:50:12 2021 -0500
+[31m|[m 
+[31m|[m     asdfsadf
+[31m|[m     ;
+[31m|[m     ;
+[31m|[m     clear
+[31m|[m 
+* [33mcommit 616e4a91a36930da788ff01a957660752ce2d7d9[m
+[31m|[m Author: isailazo <isalazo_benites@outlook.es>
+[31m|[m Date:   Sat Apr 17 17:01:43 2021 -0500
+[31m|[m 
+[31m|[m     Una version de mi blog
+[31m|[m 
+* [33mcommit 0eeea3fca7170e98222d84c7712409b2ff957bfd[m
+[31m|[m Author: Isai Emanuel Lazo Benites <82061296+IsaiLazo@users.noreply.github.com>
+[31m|[m Date:   Wed Apr 14 23:26:43 2021 -0500
+[31m|[m 
+[31m|[m     Cambie el titulo por que puedo
+[31m|[m     
+[31m|[m     aea
+[31m|[m   
+*   [33mcommit ad71cc0b6f384c0fc86b3cc9d2b3630adf214349[m
+[32m|[m[33m\[m  Merge: 521c79d eb6d689
+[32m|[m [33m|[m Author: isailazo <isalazo_benites@outlook.es>
+[32m|[m [33m|[m Date:   Wed Apr 14 11:29:25 2021 -0500
+[32m|[m [33m|[m 
+[32m|[m [33m|[m     Solucion el conflicto de las ramas al fusionar
+[32m|[m [33m|[m 
+[32m|[m * [33mcommit eb6d689b940506642197b7e9f8b2d6ac5330f925[m[33m ([m[1;32mcebcera[m[33m)[m
+[32m|[m [33m|[m Author: isailazo <isalazo_benites@outlook.es>
+[32m|[m [33m|[m Date:   Wed Apr 14 11:22:17 2021 -0500
+[32m|[m [33m|[m 
+[32m|[m [33m|[m     Modifique la cabecera y el color del texto
+[32m|[m [33m|[m 
+* [33m|[m [33mcommit 521c79d47a6c583c85c6d1ed56c2a968e534cd47[m
+[33m|[m[33m/[m  Author: isailazo <isalazo_benites@outlook.es>
+[33m|[m   Date:   Wed Apr 14 11:24:25 2021 -0500
+[33m|[m   
+[33m|[m       Agregue suscripcion, cambie la cabecera maestra y puse todo azul
+[33m|[m 
+* [33mcommit 49e63e93a42ebbaed7e38c1492d09847783c578f[m
+[33m|[m Author: isailazo <isalazo_benites@outlook.es>
+[33m|[m Date:   Mon Apr 12 23:45:07 2021 -0500
+[33m|[m 
+[33m|[m     Cambio de tipografia Arial
+[33m|[m   
+*   [33mcommit 14213e42b569b4205addc18573d8650c7ed86b3d[m
+[34m|[m[35m\[m  Merge: eea2870 0d8f8c4
+[34m|[m [35m|[m Author: isailazo <isalazo_benites@outlook.es>
+[34m|[m [35m|[m Date:   Mon Apr 12 23:42:25 2021 -0500
+[34m|[m [35m|[m 
+[34m|[m [35m|[m     Merge branch 'cebcera'
+[34m|[m [35m|[m 
+[34m|[m * [33mcommit 0d8f8c47715b896d6ec65108937510a6a1475ed0[m[33m ([m[1;33mtag: v0.1[m[33m)[m
+[34m|[m [35m|[m Author: isailazo <isalazo_benites@outlook.es>
+[34m|[m [35m|[m Date:   Mon Apr 12 23:35:36 2021 -0500
+[34m|[m [35m|[m 
+[34m|[m [35m|[m     Finalizada la cabecera con azul
+[34m|[m [35m|[m 
+* [35m|[m [33mcommit eea28705dc133eb438ed07e028bc8efd438c0e3f[m
+[35m|[m[35m/[m  Author: isailazo <isalazo_benites@outlook.es>
+[35m|[m   Date:   Mon Apr 12 23:39:51 2021 -0500
+[35m|[m   
+[35m|[m       Agregado el contenido adicional del blog
+[35m|[m 
+* [33mcommit fd442ba4ed56c6a25a8e391cfbcdbb90ba5719f8[m
+  Author: isailazo <isalazo_benites@outlook.es>
+  Date:   Mon Apr 12 22:12:25 2021 -0500
+  
+      Commit al master del blogpost en su version mas reciente
